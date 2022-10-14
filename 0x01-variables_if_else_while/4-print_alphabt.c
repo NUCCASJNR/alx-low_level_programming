@@ -4,11 +4,12 @@
 /**
  * main - Entry point
  *
- * return: Always 0
+ * Return: Always 0
  */
 int main(void)
 {
 	char low;
+
 	for (low = 'a'; low <= 'z'; low++)
 		if (low == 'q' || low == 'e')
 			continue;
