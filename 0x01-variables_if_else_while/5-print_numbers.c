@@ -3,11 +3,12 @@
 #include <time.h>
 /**
  * main - Entry point
- * Rewturn:Always 0
+ * Return: Always 0
  */
 int main(void)
 {
 	int i;
+
 	for (i = '0'; i <= '9'; i++)
 		putchar(i);
 	putchar('\n');
