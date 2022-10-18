@@ -10,16 +10,16 @@ void times_table(void)
 	for (row = 0; row <= 9; row++)
 	{
 		_putchar(0);
-		for (col = 1; col <= 9; col++)
+		for (column = 1; column <= 9; column++)
 		{
 			_putchar(',');
 			_putchar(' ');
-			product = row * col;
-			if (prod <= 9)
+			product = row * column;
+			if (product <= 9)
 				_putchar(' ');
 			else
-				_putchar((prod / 10) + '0');
-			_putchar((prod % 10) + '0');
+				_putchar((product / 10) + '0');
+			_putchar((product % 10) + '0');
 		}
 		_putchar('\n');
 	}
