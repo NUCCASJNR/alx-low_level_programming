@@ -12,7 +12,7 @@ char product;
 	{
 		for (column = 0; column < 9; column++)
 		{
-			product = row * column;
+			product = row*column;
 				_putchar(product);
 			_putchar('\n');
 		}
