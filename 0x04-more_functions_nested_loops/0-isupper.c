@@ -11,9 +11,9 @@ int _isupper(int c)
 
 	for (i = 'A'; i  <= 'Z'; i++)
 	{
-			if (i == c)
-				upper = 1;
-		}
+		if (i == c)
+			upper = 1;
+	}
 	return (upper);
 }
 
