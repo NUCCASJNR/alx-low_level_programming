@@ -9,11 +9,11 @@
 
 int square_root(int a, int b)
 {
-	if (a * a > b)
+	if (b * b > a)
 	{
 		return (-1);
 	}
-	if (a * a == b)
+	if (b * b == a)
 	{
 		return (b);
 
