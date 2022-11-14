@@ -1,3 +1,4 @@
+#include "dog.h"
 #include <stdlib.h>
 
 /**
@@ -34,7 +35,6 @@ char *_string(char *point)
 
 /**
  * new_dog - Funcion to create a new dog
-  * new_dog - Funcion to create a new dog
  * @name: initial name of dog
  * @age: initial dog age
  * @owner: initial dog owner
