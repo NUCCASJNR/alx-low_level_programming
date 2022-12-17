@@ -29,7 +29,7 @@ Directories | Description
 [0x17-doubly_linked_lists](./0x17-doubly_linked_lists) | Introduction to doubly linked list.
 [0x18-dynamic_libraries](./0x18-dynamic_libraries) | Intrtoduction to dynamic libraties.
 
-## Student name
+## STUDENT NAME AND EMAIL ADDRESS
  ALAREEF
 
 email: alareefadegbite@gmail.com
