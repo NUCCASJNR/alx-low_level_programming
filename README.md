@@ -11,7 +11,7 @@ Directories | Description
 [0x02-functions_nested_loops](./0x02-functions_nested_loops) | Introduction to functions and nested loops.
 [0x03-debugging](./0x03-debugging) | introduction to debugging in c programming.
 [0x04-more_functions_nested_loops](./0x04-more_functions_nested_loops) | Deeper dive into functions and nested loops.
-[0x05-pointers_arrays_strings](./pointers_arrays_strings) | introduction to pointers, arrays and strings.
+[0x05-pointers_arrays_strings](./0x05-pointers_arrays_strings) | introduction to pointers, arrays and strings.
 [0x06-pointers_arrays_strings](./0x06-pointers_arrays_strings) | more of arrays, pointers and strings in c programming.
 [0x07-pointers_arrays_strings](./0x07-pointers_arrays_strings) | even more deeper dive into pointers arrays and strings.
 [0x08-recursion](./0x08-recursion) | Introduction to recursion.
