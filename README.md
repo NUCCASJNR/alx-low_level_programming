@@ -25,7 +25,7 @@ Directories | Description
 [0x13-more_singly_linked_lists](./0x13-more_singly_linked_lists) | More deeper into singly linked lists.
 [0x14-bit_manipulation](./0x14-bit_manipulation) | introduction to bit manipulation.
 [0x15-file_io](./0x15-file_io) | Introduction to file i\o
-
+[0x18-dynamic_libraries](./0x18-dynamic_libraries) | Dynamic libraries
 ## STUDENT NAME AND EMAIL ADDRESS
  ALAREEF
 
@@ -34,8 +34,8 @@ email: alareefadegbite@gmail.com
 ## SOCIAL HANDLES
 
 
-- GitHub: [@NUCCASJNR](https://github.com/NUCCASJNR)
-- Twitter: [@Al_ar_eef](https://twitter.com/Al_ar_eef)
+- GitHub: [NUCCASJNR](https://github.com/NUCCASJNR)
+- Twitter: [Al_ar_eef](https://twitter.com/Al_ar_eef)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/adegbite-al-areef-2b0b8723a)
 - facebook: [facebook](https://www.facebook.com/profile.php?id=100088347365140)
 
