@@ -26,6 +26,7 @@ Directories | Description
 [0x14-bit_manipulation](./0x14-bit_manipulation) | introduction to bit manipulation.
 [0x15-file_io](./0x15-file_io) | Introduction to file i\o
 [0x18-dynamic_libraries](./0x18-dynamic_libraries) | Dynamic libraries
+[0x1A-hash_tables](./0x1A-hash_tables) | Hash tables
 ## STUDENT NAME AND EMAIL ADDRESS
  ALAREEF
 
