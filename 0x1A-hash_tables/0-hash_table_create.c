@@ -4,6 +4,7 @@
  * hash_table_create - creates a hash table
  * @size: size of the table
  * Return: returns a pointer to the table
+ * 	   otherwise a pointer to the new hash table
  */
 
 hash_table_t *hash_table_create(unsigned long int size)
