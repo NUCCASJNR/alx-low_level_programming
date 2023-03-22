@@ -27,6 +27,8 @@ Directories | Description
 [0x15-file_io](./0x15-file_io) | Introduction to file i\o
 [0x18-dynamic_libraries](./0x18-dynamic_libraries) | Dynamic libraries
 [0x1A-hash_tables](./0x1A-hash_tables) | Hash tables
+[0x1C-makefiles](./0x1C-makefiles) | Makefiles
+
 ## STUDENT NAME AND EMAIL ADDRESS
  ALAREEF
 
@@ -39,5 +41,3 @@ email: alareefadegbite@gmail.com
 - Twitter: [codewithalareef](https://twitter.com/codewithalareef)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/adegbite-al-areef-2b0b8723a)
 - facebook: [facebook](https://www.facebook.com/profile.php?id=100088347365140)
-
-
