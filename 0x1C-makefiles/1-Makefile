@@ -1,0 +1,13 @@
+#Requirements:
+
+#name of the executable: school
+#rules: all
+#The all rule builds your executable
+#variables: CC, SRC
+#CC: the compiler to be used
+#SRC: the .c files
+
+CC = gcc
+SRC = main.c school.c
+all : $(SRC)
+	$(CC)$(SRC) -o school
