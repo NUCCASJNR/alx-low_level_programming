@@ -8,5 +8,5 @@
 # variables: none
 #
 
-all: main.c school.c
+all: school.c
 	gcc main.c school.c -o school
